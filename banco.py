@@ -6,7 +6,6 @@ menu = """
 
 """
 
-
 saldo = 0
 saque = 0
 limite = 500
